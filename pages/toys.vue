@@ -1,6 +1,6 @@
 <template>
   <v-row>
-    <v-col cols="6">
+    <v-col cols="12" sm="6">
       <question category="toy"
                 en="What is your toy?"
                 es="¿Cual es tu juguete?"
@@ -9,7 +9,7 @@
       >
       </question>
     </v-col>
-    <v-col cols="6">
+    <v-col cols="12" sm="6">
       <question category="toy"
                 en="What color is it?"
                 es="¿De que color es?"
@@ -20,7 +20,7 @@
     </v-col>
 <!--  SECOND-->
 
-    <v-col cols="6">
+    <v-col cols="12" sm="6">
       <question category="toy"
                 en="Why do you like it?"
                 es="¿Por que te gusta?"
@@ -31,7 +31,7 @@
 
     </v-col>
 
-    <v-col cols="6">
+    <v-col cols="12" sm="6">
       <question category="toy"
                 en="How often do you play with it?"
                 es="¿Con que frecuencia juegas con el?"
